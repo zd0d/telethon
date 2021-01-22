@@ -1,6 +1,7 @@
 {
   "name": "Telethon For KSA",
   "description": "Welcome to Source Telethon for KSA, follow the channel @KSATHON, and also the developer channel @TweakPY",
+  
   "keywords": [
     "telegram",
     "userbot",
@@ -8,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/klanrali/ksa_thon/",
+  "repository": "https://github.com/w89X/ae.thon/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -59,7 +60,7 @@
     },
     "TZ": {
       "description": "الموقع",
-      "value": "SAUDIARAIA",
+      "value": "Asia/Baghdad",
       "required": false
     }
   },

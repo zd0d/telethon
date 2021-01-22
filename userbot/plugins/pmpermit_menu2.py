@@ -16,6 +16,6 @@ async def amireallyalive(alive):
                      "⌔︙ Version: 1.0.0\n"
                      "⌔︙ Created By : [© By Team #Ksathon™](https://t.me/KSATHON)\n"
                      "⌔︙ Python Tools : @TweakPY\n"
-                    f"⌔︙ My Dev : [@BERŁN] (https://t.me/berliv)\n")
+                    f"⌔︙ My Dev : @berliv\n")
 
     

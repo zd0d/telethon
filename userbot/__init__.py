@@ -47,7 +47,7 @@ if bool(ENV):
                     level=INFO)
     LOGS = getLogger(__name__)
 
-    # klanr @iqthon
+    
     # Basically, its the 'virginity check' for the config file ;)
     CONFIG_CHECK = os.environ.get(
         "___________PLOX_______REMOVE_____THIS_____LINE__________", None)

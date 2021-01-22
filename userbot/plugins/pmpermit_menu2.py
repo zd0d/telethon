@@ -14,5 +14,5 @@ async def amireallyalive(alive):
     await alive.edit("⌔︙🕷🇸🇦 TeleThon For KSA \n"
                      "⌔︙🕷🇸🇦 Version: 1.0.1\n"
                      "⌔︙🕷🇸🇦 Created By: [CH SA](https://t.me/KSATHON)\n"
-                     "⌔︙🕷🇸🇦 Dev: @berliv & @q1_f5\n"
-                    
+                     f"⌔︙🕷🇸🇦 Dev: @berliv & @q1_f5\n")
+    

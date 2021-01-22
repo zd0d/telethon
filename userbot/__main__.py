@@ -1,3 +1,5 @@
+#   klanr @iqthon .
+
 from userbot import bot
 from sys import argv
 import sys
@@ -60,7 +62,7 @@ for name in files:
 
 import userbot._core
 
-print("Thank you for using Telethon KSA. Now the bot is working. Follow our channel : T.me/KSATHON")
+print("Thank you for using Telethon Iraq. Now the bot is working. Follow our channel : T.me/KSATHON")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()

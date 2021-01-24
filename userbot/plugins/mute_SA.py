@@ -7,7 +7,7 @@ async def startmute(event):
     if event.fwd_from:
         return
     elif event.is_private:
-        await event.edit("- 𖢞 Unexpected issues or ugly errors may occur! - @IQTHON")
+        await event.edit("- 𖢞 Unexpected issues or ugly errors may occur! ")
         await asyncio.sleep(3)
         private = True
     if any([x in event.raw_text for x in ("/mute", "!mute")]):
@@ -148,7 +148,7 @@ async def endmute(event):
         except Exception as e:
             await event.edit("- 𖢞Error occured!\nError is " + str(e))
         else:
-            await event.edit("- 𖢞Successfully unmuted that person\n - @IQTHON")
+            await event.edit("- 𖢞Successfully unmuted that person\n ")
 
 @command(incoming=True)
 async def watcher(event):

@@ -12,10 +12,10 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No Name set yet. [KSATHON.](t.
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
 
-    await alive.edit("⌔︙ TeleThon For Tuka \n"
+    await alive.edit("⌔︙ TeleThon For Berlin \n"
                      "⌔︙ Version: 1.0.0\n"
-                     "⌔︙ Created By : [#Tuka™](https://t.me/TUKA2)\n"
-                     "⌔︙ INSTAGRAM : @9w6o\n"
-                    f"⌔︙ My Dev : @TUSL9\n")
+                     "⌔︙ Created By : [#Berlin™](https://t.me/TTYQN)\n"
+                     "⌔︙ INSTAGRAM : @berlin.py\n"
+                    f"⌔︙ My Dev : @TTYQN\n")
 
     

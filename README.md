@@ -1,11 +1,11 @@
-# KSAThon-BOT
+# Telethon
 
 <p align="center">
 
 
 
 Best User Bot To Manage Your Telegram Account 
-## © By Team #ksathon™
+## © By #berlin
 [![Get string session](https://repl.it/badge/github/sandy1709/sandeep1709)](https://generatestringsession.sandeep1709.repl.run/)
 ### For any query or want to know how it works join Group And Channel 
 
@@ -15,22 +15,7 @@ Best User Bot To Manage Your Telegram Account
 
 
 
-### Host KSA In Heroku
-
+ 
  
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/6z3/ksa_thon )
-
-Termix codes for installation through Termex in Google Play for installing Source Ksa  :
-
-`sh
-
-git clone https://github.com/berliv/ksa_thon
-
-cd ksa
-
-virtualenv -p /usr/bin/python3 venv
-
-. ./venv/bin/activate
-
-pip install -r requirements.txt

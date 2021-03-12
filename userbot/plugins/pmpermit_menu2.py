@@ -6,7 +6,7 @@ from platform import uname
 from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No Name set yet. [KSATHON.](t.me/KSATHON)"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No Name set yet. [King.](t.me/rrsvc)"
 
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
@@ -14,8 +14,8 @@ async def amireallyalive(alive):
 
     await alive.edit("⌔︙ TeleThon For Berlin \n"
                      "⌔︙ Version: 1.0.0\n"
-                     "⌔︙ Created By : [#Berlin™](https://t.me/TTYQN)\n"
-                     "⌔︙ INSTAGRAM : @berlin.py\n"
-                    f"⌔︙ My Dev : @TTYQN\n")
+                     "⌔︙ Created By : [#Berlin™](https://t.me/zr8ah)\n"
+                     "⌔︙ INSTAGRAM : @680068\n"
+                    f"⌔︙ My Dev : @zr8ah\n")
 
     
